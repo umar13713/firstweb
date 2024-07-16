@@ -5,10 +5,10 @@ Author - Umer Qureshi
 <br>
 Change - This Is Change
 <br>
-Change - This Is Second Change
+Change - This Is the Second Change
 <br>
-Change - This Is Third Change
+Change - This Is the Third Change
 <br>
-Change - This Is Fourth Change
+Change - This Is the Fourth Change
 <br> 
 Add - Add 1 Style File
